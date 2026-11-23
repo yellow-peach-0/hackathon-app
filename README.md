@@ -8,4 +8,8 @@ Python 3.10 이상에서 동작한다.
 - `GET /` : 인사 메시지
 - `GET /health` : 상태 확인
 
+## 실행 방법
+
+`uvicorn app.main:app --reload`
+
 ## 팀원
